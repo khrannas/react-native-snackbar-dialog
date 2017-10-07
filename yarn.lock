@@ -3885,9 +3885,9 @@ react-mixin@^3.0.0:
     object-assign "^4.0.1"
     smart-mixin "^2.0.0"
 
-react-native-root-siblings@^1.1.2:
+react-native-root-siblings@khrannas/react-native-root-siblings:
   version "1.2.1"
-  resolved "https://registry.yarnpkg.com/react-native-root-siblings/-/react-native-root-siblings-1.2.1.tgz#6f8d0e711dbf9aef4e57e73aea751372b5aefcff"
+  resolved "https://codeload.github.com/khrannas/react-native-root-siblings/tar.gz/4c6d2910750ed8135dc85aa53b9fe982a4af1d65"
   dependencies:
     static-container "^1.0.0"
 
