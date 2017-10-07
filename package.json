@@ -60,6 +60,7 @@
   },
   "homepage": "https://github.com/9gag-open-source/react-native-snackbar-dialog#readme",
   "dependencies": {
+    "@bam.tech/react-native-root-siblings": "^1.2.1",
     "babel-cli": "^6.18.0",
     "babel-plugin-flow-react-proptypes": "^2.2.0",
     "babel-preset-es2016": "^6.16.0",
